@@ -18,7 +18,7 @@ let colors = [
     "purple", 
     "pink", 
     "yellow", 
-    "red", 
+    "yellow", 
     "grey", 
     "white", 
     "brown", 
