@@ -1,0 +1,13 @@
+h1,h2{
+
+color: blue;
+}
+.box>p{
+    color: red;
+}
+.box ul{
+    color: green;
+}
+li.done{
+    color: yellow;
+}
